@@ -1,22 +1,29 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Vantage Network Wiki](README.md)
 
 ## Guides
 
-* [Eternal Islands](guides/creating-your-first-project.md)
-* [Seraphim Survival](guides/creating-your-first-task.md)
-* [Elemental Dungeons](guides/advanced-permissions.md)
+* [The Hub](guides/the-hub.md)
+* [Seraphim Survival](guides/seraphim-survival.md)
+* [Eternal Islands](guides/eternal-islands.md)
+* [Elemental Dungeons](guides/elemental-dungeons.md)
 
-## Diving Deeper
+## Fundamentals
 
-* [Eternal Islands](diving-deeper/eternal-islands/README.md)
-  * [Figma Integration](diving-deeper/eternal-islands/figma-integration.md)
-* [Seraphim Survival](diving-deeper/seraphim-survival/README.md)
-  * [GitHub Integration](diving-deeper/seraphim-survival/github-integration.md)
-* [Elemental Dungeons](diving-deeper/elemental-dungeons/README.md)
-  * [Intercom Integration](diving-deeper/elemental-dungeons/intercom-integration.md)
+* [Network Levels](fundamentals/network-levels.md)
+* [Network-Wide Commands](fundamentals/network-wide-commands.md)
+* [Network Chat](fundamentals/network-chat.md)
+
+## Server Specific Features
+
+* [The Hub](server-specific-features/for-support/README.md)
+  * [Parkour Master](server-specific-features/for-support/intercom-integration.md)
+* [Seraphim Survival](server-specific-features/seraphim-survival/README.md)
+  * [Egg Catcher](server-specific-features/seraphim-survival/egg-catcher.md)
+* [Eternal Islands](server-specific-features/eternal-islands.md)
+* [Elemental Dungeons](server-specific-features/elemental-dungeons.md)
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Command Cheat-Sheet](extras/command-cheat-sheet.md)
