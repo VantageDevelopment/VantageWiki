@@ -8,20 +8,6 @@ This site should answer any questions you have regarding our custom features, as
 If you require assistance and need to contact the staff team, please create a ticket on our Discord:** **[https://discord.vantagemc.net](https://discord.vantagemc.net).
 {% endhint %}
 
-{% hint style="info" %}
-You can view official Vantage Network platforms below. Any links/accounts listed below are not connected to/endorsed by the Vantage Network.
-
-
-
-**Website: **[https://www.vantagemc.net](https://www.vantagemc.net)
-
-**Store:** [https://buy.vantagemc.net](https://buy.vantagemc.net)
-
-**Discord: **[https://discord.vantagemc.net](https://discord.vantagemc.net)
-
-**Twitter: **[https://twitter.com/vantageserver](https://twitter.com/vantageserver)
-{% endhint %}
-
 ## Getting Started
 
 **Not sure where to start?** Check out our getting started guide below:
@@ -61,3 +47,17 @@ Learn the fundamentals of the Vantage Network to get a deeper understanding of o
 {% content-ref url="fundamentals/network-levels.md" %}
 [network-levels.md](fundamentals/network-levels.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+You can view official Vantage Network platforms below. Any links/accounts listed below are not connected to/endorsed by the Vantage Network.
+
+
+
+**Website: **[https://www.vantagemc.net](https://www.vantagemc.net)
+
+**Store:** [https://buy.vantagemc.net](https://buy.vantagemc.net)
+
+**Discord: **[https://discord.vantagemc.net](https://discord.vantagemc.net)
+
+**Twitter: **[https://twitter.com/vantageserver](https://twitter.com/vantageserver)
+{% endhint %}
