@@ -1,28 +1,21 @@
 # Table of contents
 
-* [Vantage Network Wiki](README.md)
+* [Welcome](README.md)
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Eternal Islands](guides/creating-your-first-project.md)
+* [Seraphim Survival](guides/creating-your-first-task.md)
+* [Elemental Dungeons](guides/advanced-permissions.md)
 
-## Fundamentals
+## Diving Deeper
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Eternal Islands](diving-deeper/eternal-islands/README.md)
+  * [Figma Integration](diving-deeper/eternal-islands/figma-integration.md)
+* [Seraphim Survival](diving-deeper/seraphim-survival/README.md)
+  * [GitHub Integration](diving-deeper/seraphim-survival/github-integration.md)
+* [Elemental Dungeons](diving-deeper/elemental-dungeons/README.md)
+  * [Intercom Integration](diving-deeper/elemental-dungeons/intercom-integration.md)
 
 ## Extras
 
