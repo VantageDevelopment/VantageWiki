@@ -20,7 +20,11 @@
 * [The Hub](server-specific-features/for-support/README.md)
   * [Parkour Master](server-specific-features/for-support/intercom-integration.md)
 * [Seraphim Survival](server-specific-features/seraphim-survival/README.md)
+  * [Auction House](server-specific-features/seraphim-survival/auction-house.md)
+  * [Bank](server-specific-features/seraphim-survival/bank.md)
+  * [Custom Enchantments](server-specific-features/seraphim-survival/custom-enchantments.md)
   * [Egg Catcher](server-specific-features/seraphim-survival/egg-catcher.md)
+  * [Warps](server-specific-features/seraphim-survival/warps.md)
 * [Eternal Islands](server-specific-features/eternal-islands.md)
 * [Elemental Dungeons](server-specific-features/elemental-dungeons.md)
 
