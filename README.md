@@ -1,6 +1,6 @@
 # Vantage Network Wiki
 
-## Welcome to the Vantage Network Wiki
+## Welcome to the Vantage Network Wiki!
 
 This site should answer any questions you have regarding our custom features, as well as provide tips on how to get started playing on the network.
 
