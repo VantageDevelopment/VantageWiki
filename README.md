@@ -8,7 +8,7 @@ This site should answer any questions you have regarding our custom features, as
 If you require assistance and need to contact the staff team, please create a ticket on our Discord.
 {% endhint %}
 
-## Getting Started
+## Starting Out
 
 The Vantage Network has a few different servers to pick from. You can try them all or stick to your favorite game mode depending on your preference.
 
