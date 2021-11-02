@@ -1,6 +1,6 @@
 # Vantage Network Wiki
 
-## Welcome to the Vantage Network Wiki!
+## Welcome to the Vantage Network Wiki
 
 This site should answer any questions you have regarding our custom features, as well as provide tips on how to get started playing on the network.
 
@@ -47,11 +47,11 @@ Learn the fundamentals of the Vantage Network to get a deeper understanding of o
 {% hint style="info" %}
 You can view official Vantage Network platforms below. Any links/accounts listed below are not connected to/endorsed by the Vantage Network.
 
-**Website **[https://www.vantagemc.net](https://www.vantagemc.net)
+\*\*Website \*\*[https://www.vantagemc.net](https://www.vantagemc.net)
 
 **Store:** [https://buy.vantagemc.net](https://buy.vantagemc.net)
 
-**Discord: **[https://discord.vantagemc.net](https://discord.vantagemc.net)
+\*\*Discord: \*\*[https://discord.vantagemc.net](https://discord.vantagemc.net)
 
 **Twitter:** [https://twitter.com/vantageserver](https://twitter.com/vantageserver)
 {% endhint %}
