@@ -12,46 +12,32 @@ If you require assistance and need to contact the staff team, please create a ti
 
 The Vantage Network has a few different servers to pick from. You can try them all or stick to your favorite game mode depending on your preference.
 
-{% content-ref url="getting-started/the-hub.md" %}
-[the-hub.md](getting-started/the-hub.md)
+{% content-ref url="servers/seraphim-survival/" %}
+[seraphim-survival](servers/seraphim-survival/)
 {% endcontent-ref %}
 
-{% content-ref url="getting-started/seraphim-survival.md" %}
-[seraphim-survival.md](getting-started/seraphim-survival.md)
-{% endcontent-ref %}
-
-{% content-ref url="getting-started/eternal-islands.md" %}
-[eternal-islands.md](getting-started/eternal-islands.md)
-{% endcontent-ref %}
-
-{% content-ref url="getting-started/elemental-dungeons.md" %}
-[elemental-dungeons.md](getting-started/elemental-dungeons.md)
+{% content-ref url="servers/eternal-islands.md" %}
+[eternal-islands.md](servers/eternal-islands.md)
 {% endcontent-ref %}
 
 ## Fundamentals: Dive a little deeper
 
 Learn the fundamentals of the Vantage Network to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/network-wide-commands.md" %}
-[network-wide-commands.md](fundamentals/network-wide-commands.md)
-{% endcontent-ref %}
-
 {% content-ref url="fundamentals/network-chat.md" %}
 [network-chat.md](fundamentals/network-chat.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/network-levels.md" %}
-[network-levels.md](fundamentals/network-levels.md)
+{% content-ref url="fundamentals/server-navigation.md" %}
+[server-navigation.md](fundamentals/server-navigation.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
-You can view official Vantage Network platforms below. Any links/accounts listed below are not connected to/endorsed by the Vantage Network.
-
-\*\*Website \*\*[https://www.vantagemc.net](https://www.vantagemc.net)
+You can view the official Vantage Network platforms below. Any links/accounts listed below are not connected to/endorsed by the Vantage Network.
 
 **Store:** [https://buy.vantagemc.net](https://buy.vantagemc.net)
 
-\*\*Discord: \*\*[https://discord.vantagemc.net](https://discord.vantagemc.net)
+**Discord:** [https://discord.vantagemc.net](https://discord.vantagemc.net)
 
 **Twitter:** [https://twitter.com/vantageserver](https://twitter.com/vantageserver)
 {% endhint %}
