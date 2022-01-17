@@ -1,6 +1,6 @@
 # Chat Games
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 Chat games constantly trigger randomly as long as 4 players are online. When a player wins a chat game by answering first (and correctly) they will receive a crate key voucher with a percent chance to drop any key.
 

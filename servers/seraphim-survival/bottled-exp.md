@@ -1,6 +1,6 @@
 # Bottled Exp
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 Bottled Exp will give you bottles of either experience orbs, levels, or points.
 

@@ -1,17 +1,17 @@
 # Classes
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ## Class Types
 
-### Warrior
+There are three classes available in `/class` (Warrior, Marksman, Mage). Each comes with some upsides and downsides, so it’s up to you which one to use. You can view specific stats in `/class`, but the overall info is below:
 
-Warriors get an increase in physical damage given, attack speed, increased health, and reduced stamina.
+**The Warrior class** has increased attack damage, attack speed, health, speed malus reduction (negates speed decreases from heavy armor), and lowers overall movement speed.
 
-### Marksman
+**The Marksman class** has increased knockback resistance and speed malus reduction, along with lower max health and movement speed.
 
-Marksmen get increased projectile damage, max stamina, decreased max health, and physical damage.
+**The Mage class** has increased mana regeneration, health regeneration, and max mana, along with lower max health.
 
-### Mage
+## Class Points
 
-Mages get increased magic damage, max mana, cooldown reduction, increased projectile damage taken, and lower max health.
+To change your class, you need a class point. Every new player starts with one class point, but you will get another every 5 times you rank up with `/rankup`.
