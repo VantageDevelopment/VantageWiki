@@ -15,6 +15,7 @@
   * [Bank](servers/seraphim-survival/bank.md)
   * [Bottled Exp](servers/seraphim-survival/bottled-exp.md)
   * [Chat Games](servers/seraphim-survival/chat-games.md)
+  * [Chest Sorting](servers/seraphim-survival/chest-sorting.md)
   * [Clans](servers/seraphim-survival/clans.md)
   * [Classes](servers/seraphim-survival/classes.md)
   * [Custom Items](servers/seraphim-survival/custom-items.md)

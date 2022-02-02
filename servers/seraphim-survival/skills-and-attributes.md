@@ -30,6 +30,6 @@ Attribute points are gained when leveling up a skill 5 times or class every leve
 
 ## Your Character
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 The commands `/player` or /`p` will open your character menu. From this menu, you get an overview of your skill progression as well as allocated attribute points and class level.
